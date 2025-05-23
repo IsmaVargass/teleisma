@@ -98,6 +98,9 @@ Dentro del directorio `docs/` encontrarás los diagramas generados para el proye
 - [`Diagrama de clases`](docs/Diagrama_de_clases.png)  
   Diagrama de clases que refleja la estructura de los paquetes y la herencia/implementación de interfaces.
 
+- [`Teleisma Mockup`](docs/Teleisma-Mockup.pdf)  
+  Mockups de la interfaz de usuario y flujo de pantallas.
+
 ---
 
 ## 🙌 Recursos y Agradecimientos
