@@ -69,3 +69,21 @@ teleisma/
 - **Seguridad**: contraseñas cifradas, validaciones frontend/back  
 - **Usabilidad**: interfaz clara y accesible en Swing  
 
+---
+
+## 📂 Documentación
+
+Dentro del directorio `docs/` encontrarás los diagramas generados para el proyecto:
+
+- [`Casos de Usos`](docs/Casos_de_Usos.png)  
+  Diagrama de casos de uso que muestra las interacciones entre actores y funcionalidades.
+
+- [`Diagrama Entidad Relación`](docs/Diagrama_Entidad_Relación.png)  
+  Diagrama ER con las entidades principales y sus relaciones.
+
+- [`Diagrama de clases`](docs/Diagrama_de_clases.png)  
+  Diagrama de clases que refleja la estructura de los paquetes y la herencia/implementación de interfaces.
+
+---
+
+
