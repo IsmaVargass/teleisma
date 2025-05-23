@@ -1,5 +1,7 @@
 # Documentación de la aplicación - Teleisma 🍕
 
+🎥 [Ver video introductorio de Teleisma en YouTube](https://youtu.be/ypxF0uMTmlU)
+
 <img src="src/main/resources/images/teleisma.png" alt="TELEISMA" width="300"/>
 
 **Teleisma** es un sistema de gestión integral para una pizzería con atención al cliente, gestión de incidencias, ofertas y administración.  
