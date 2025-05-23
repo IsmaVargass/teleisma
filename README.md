@@ -14,7 +14,6 @@ Arquitectura modular basada en Java, Maven y Swing (o JavaFX), pensada para esca
 [![Repo Size](https://img.shields.io/github/repo-size/IsmaVargass/teleisma)](https://github.com/IsmaVargass/teleisma)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 [![Made with Java](https://img.shields.io/badge/Made%20with-Java-orange.svg)](https://www.java.com/)
 
 ---
