@@ -1,5 +1,7 @@
 # Documentación de la aplicación - Teleisma 🍕
 
+<img src="src/main/resources/images/teleisma.png" alt="TELEISMA" width="300"/>
+
 **Teleisma** es un sistema de gestión integral para una pizzería con atención al cliente, gestión de incidencias, ofertas y administración.  
 Arquitectura modular basada en Java, Maven y Swing (o JavaFX), pensada para escalabilidad y mantenibilidad.
 
