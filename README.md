@@ -100,6 +100,12 @@ Dentro del directorio `docs/` encontrarás los diagramas generados para el proye
 - [`Teleisma Mockup`](docs/Teleisma-Mockup.pdf)  
   Mockups de la interfaz de usuario y flujo de pantallas.
 
+- [`Diagrama UML`](docs/UML.md)  
+  Diagrama UML --> mermaid.
+
+- [`Diagrama UML`](docs/UML.pdf)  
+  Diagrama UML --> pdf.
+
 ---
 
 ## 🙌 Recursos y Agradecimientos
