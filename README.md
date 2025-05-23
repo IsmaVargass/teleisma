@@ -1,7 +1,21 @@
-# Teleisma 🍕
+# Documentación de la aplicación - Teleisma 🍕
 
 **Teleisma** es un sistema de gestión integral para una pizzería con atención al cliente, gestión de incidencias, ofertas y administración.  
 Arquitectura modular basada en Java, Maven y Swing (o JavaFX), pensada para escalabilidad y mantenibilidad.
+
+[![Stars](https://img.shields.io/github/stars/IsmaVargass/teleisma?style=social&label=Stars)](https://github.com/IsmaVargass/teleisma/stargazers)
+
+[![Forks](https://img.shields.io/github/forks/IsmaVargass/teleisma?style=social&label=Forks)](https://github.com/IsmaVargass/teleisma/network/members)
+
+[![Issues](https://img.shields.io/github/issues/IsmaVargass/teleisma)](https://github.com/IsmaVargass/teleisma/issues)
+
+[![Last Commit](https://img.shields.io/github/last-commit/IsmaVargass/teleisma.svg)](https://github.com/IsmaVargass/teleisma/commits/master/)
+
+[![Repo Size](https://img.shields.io/github/repo-size/IsmaVargass/teleisma)](https://github.com/IsmaVargass/teleisma)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+[![Made with Java](https://img.shields.io/badge/Made%20with-Java-orange.svg)](https://www.java.com/)
 
 ---
 
@@ -85,5 +99,20 @@ Dentro del directorio `docs/` encontrarás los diagramas generados para el proye
   Diagrama de clases que refleja la estructura de los paquetes y la herencia/implementación de interfaces.
 
 ---
+
+## 🙌 Recursos y Agradecimientos
+
+Durante el desarrollo de este proyecto, me he apoyado en las siguientes fuentes de conocimiento y herramientas:
+
+#### 🤖 ChatGPT
+- [ChatGPT de OpenAI](https://chat.openai.com): Asistencia en la organización de clases, patrones de diseño y resolución de dudas sobre algoritmos y pruebas.
+
+#### 📘 Documentación oficial de Java
+- [Collections](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html)
+- [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
+- [Manejo de excepciones en Java](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
+
+#### 💬 Stack Overflow
+- [https://stackoverflow.com](https://stackoverflow.com): Consulta de errores comunes y mejores prácticas en Java.
 
 
